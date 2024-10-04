@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+.DS_Store
+pyvenv.cfg
+Lib
+.idea
+Scripts
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+ 
+
+# C extensions
+*.so
+
